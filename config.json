@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6285701662971@s.whatsapp.net",
+  "botName": "Azura Bot",
+  "ownerName": "Azura",
+  "footer": "*2022 © AZURA BOT*",
+  "apikey": "BELI ATUH",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "session",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
